@@ -1,6 +1,6 @@
 Adds 182 fish from Wizard101 into Webfishing.
 
-Requires Lure: https://github.com/Sulayre/WebfishingLure
+Requires Lure: https://github.com/LureMaintainers/webfishing-lure
 
 
 
